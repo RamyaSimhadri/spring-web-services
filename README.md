@@ -1,2 +1,0 @@
-# spring-web-services
-EmployeeManagementApp
